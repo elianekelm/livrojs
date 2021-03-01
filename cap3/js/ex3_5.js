@@ -16,7 +16,7 @@ function calcularRaiz() { //cria referência aos elementos da página
         outResposta.textContent = "Raiz: " + raiz;
 
     } else {
-        outResposta.textContent = "Não há raiz exata para " + numero
+        outResposta.textContent = "Não há raiz exata para " + numero;
 
     }
 }
